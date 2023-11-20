@@ -1,5 +1,6 @@
 # how_global_is_gii
-Data and code for the publication "How Global is the Global Instability Index?"
+Data and code for the publication ["Testing the Limits of the Global Instability Index"](https://doi.org/10.1063/5.0140480)
+
 
 ## Feature Definitions
 - `formula`  reduced chemical formula
